@@ -1,0 +1,1 @@
+return function() printc("Hello, "..user:sub(1, 1):upper()..user:sub(2):lower().."!", 9) end

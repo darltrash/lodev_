@@ -1,0 +1,9 @@
+Hello, how are you?
+This is a text file loaded by the monster I made
+Beautiful isn't it? 
+
+It tries to mimmick (is that the word?) the Unix 
+shell, like Linux or FreeBSD.
+
+It does a terrible job but is one of my biggest
+acomplishments.
