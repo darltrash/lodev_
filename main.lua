@@ -237,7 +237,7 @@ local lines = {}
 local cursor = 12
 
 function love.update(delta)
-    shader:send("time", love.timer.getTime())
+    --shader:send("time", love.timer.getTime())
 
     s = math.sin(love.timer.getTime()*5)
     if s>0 then indicator = "_" else indicator = "" end
